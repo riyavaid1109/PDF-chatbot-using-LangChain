@@ -1,5 +1,3 @@
-# PDF-chatbot-using-LangChain
-
 # PDF Chatbot using LangChain and FAISS
 
 This project is an interactive chatbot built with [LangChain](https://github.com/hwchase17/langchain) that can read and understand the content of any PDF file. It enables users to ask questions based on the document content and receive accurate answers by combining LLMs with vector similarity search.
