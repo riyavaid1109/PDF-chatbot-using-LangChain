@@ -26,5 +26,5 @@ This project is an interactive chatbot built with [LangChain](https://github.com
 
 ---
 
-## Project Structure
+
 
